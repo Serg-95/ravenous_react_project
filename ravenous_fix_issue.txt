@@ -1,0 +1,3 @@
+if searching doesn't work follow and click the button: https://cors-anywhere.herokuapp.com/corsdemo
+
+the reason description: https://discuss.codecademy.com/t/ravenous-part-4-it-doesnt-search/568395
